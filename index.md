@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Udemera
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
+A best platform to learn Without any pay, just join and learn.
 
 
